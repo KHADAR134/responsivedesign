@@ -200,6 +200,8 @@ Publish the website in the given URL.
 ![output](./static/image/output2.jpeg)
 ![output](./static/image/output3.jpeg)
 ![output](./static/image/output4.png)
+![output](./static/image/output5.png)
+![output](./static/image/output6.png)
 
 ## CODE VALIDATION REPORT:
 ![output](./static/image/report1.png)
